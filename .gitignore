@@ -1,0 +1,21 @@
+# Java
+target/
+*.class
+*.log
+*.jar
+
+# Maven
+.mvn/
+.mvnw
+mvnw.cmd
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
